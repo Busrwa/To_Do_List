@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github&logoColor=white)](https://github.com/Busrwa/To_Do_List)
-[![License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
 
 ---
 
