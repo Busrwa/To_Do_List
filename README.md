@@ -1,7 +1,7 @@
 # 📝 To-Do List / Notes App
 
 [![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)](https://www.python.org/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github&logoColor=white)](https://github.com/Busrwa/ToDo_List)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github&logoColor=white)](https://github.com/Busrwa/To_Do_List)
 [![License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
 
 ---
@@ -27,8 +27,8 @@ Kullanıcı yönetimi Flask-Login ile sağlanır ve veriler SQLite veritabanınd
 
 ### 🛠️ Kurulum ve Kullanım
 ```bash
-git clone https://github.com/Busrwa/ToDo_List.git
-cd ToDo_List
+git clone https://github.com/Busrwa/To_Do_List.git
+cd To_Do_List
 python -m venv venv
 venv\Scripts\activate   # Windows
 # source venv/bin/activate   # Mac/Linux
@@ -65,8 +65,8 @@ User management is handled with Flask-Login, and data is stored in an SQLite dat
 
 ### 🛠️ Installation & Usage
 ```bash
-git clone https://github.com/Busrwa/ToDo_List.git
-cd ToDo_List
+git clone https://github.com/Busrwa/To_Do_List.git
+cd To_Do_List
 python -m venv venv
 venv\Scripts\activate   # Windows
 # source venv/bin/activate   # Mac/Linux
